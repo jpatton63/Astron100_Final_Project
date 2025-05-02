@@ -1,0 +1,1 @@
+This repository contains the edited down contents of most of my work. I included in this repository only what I used in my Model or data reduction, but there are a significant number of files from my workflow that were mostly trial and error, which I did not include so you would not have to comb through them. Thank you all again!
